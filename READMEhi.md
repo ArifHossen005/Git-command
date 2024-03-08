@@ -13,7 +13,7 @@ ___
 
 _आमतौर पर उपयोग किए जाने वाले गिट कमांड की सूची_
 
-*यदि आप गिट उपनामों में रुचि रखते हैं, तो यहां `.bash_profile` पर एक नज़र डालें: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
+*यदि आप गिट उपनामों में रुचि रखते हैं, तो यहां `.bash_profile` पर एक नज़र डालें: https://github.com//bash_ArifHossen005/profile/blob/master/.bash_profile*
 
 --
 
